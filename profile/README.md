@@ -1,58 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=140&section=header&text=Viklance%20Orbit&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-# Viklance Orbit
+<br/>
 
-**Scalable software for businesses that mean business.**
+### We build software that scales.
 
-We design and ship production-grade digital platforms — fast, clean, and built to grow with you.
+<br/>
 
----
+> *Products. Infrastructure. Platforms.*
+> *Engineered for businesses that move fast and stay ahead.*
 
-### What We Build
-
-| | |
-|---|---|
-| **Storefront Systems** | Multi-tenant e-commerce platforms with real-time inventory, payments, and order management |
-| **Admin Dashboards** | Custom dashboards giving businesses full control over operations, analytics, and customers |
-| **Business APIs** | Shared backend infrastructure serving multiple clients from a single deployment |
-| **Dealer Platforms** | End-to-end listing and inquiry systems for automotive and retail businesses |
+<br/>
 
 ---
 
-### How We Work
+<br/>
 
-Every product we ship is production-ready from day one. No prototypes dressed as products. No duct tape behind the scenes.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
-We build with modern stacks, deploy on reliable infrastructure, and hand clients tools they can actually use.
-
----
-
-### Tech We Use
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<br/>
 
 ---
 
-### Get In Touch
+<br/>
 
-Have a project in mind? Let's talk.
+```
+  Client work is confidential.
+  Our code speaks behind closed doors.
+  Results speak everywhere else.
+```
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2348114538964)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adekunlevictor07@gmail.com)
+<br/>
 
 ---
 
-<sub>All client repositories are private. What you see here is the infrastructure behind what we build.</sub>
+<br/>
+
+**Let's build something.**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348114538964)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adekunlevictor07@gmail.com)
+
+<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%"/>
